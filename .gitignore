@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv*/
+venv/
+
+# macOS
+.DS_Store
+
+# Data: downloaded or generated locally (see data/README.md)
+data/*
+!data/README.md
+
+# Archives
+*.zip

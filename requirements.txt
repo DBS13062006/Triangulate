@@ -1,0 +1,7 @@
+# Tested with Python 3.13 on Apple Silicon. pyarrow and torch come in automatically.
+numpy==2.5.4
+pandas==3.0.6
+matplotlib==3.11.2
+ollama==0.6.3
+lancedb==0.40.0
+sentence-transformers==6.1.0
